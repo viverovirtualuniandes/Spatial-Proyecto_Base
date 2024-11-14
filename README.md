@@ -1,5 +1,7 @@
 <h1 align="center">
-<img src="https://github.com/user-attachments/assets/93a61d72-c548-4c19-acf5-ee96edca85d9" alt="Banner" style="width:100%;"/>
+
+![MIXR_Desarrollo_metaversos_todos_BANNER_V3](https://github.com/user-attachments/assets/5b40455c-24e6-45b5-95f8-aec3d1899d15)
+
   Proyecto XR Base
 </h1>
 
@@ -42,3 +44,5 @@ Para comenzar a trabajar con este proyecto en tu entorno local, sigue estos paso
 4. Selecciona el botón "Add" para añadir un nuevo proyecto.
 5. Navega a la carpeta que acabas de clonar y selecciónala (Spatial-Proyecto_Base).
 6. Abre el proyecto.
+
+#### **¡Listo, ya puedes empezar a crear metaversos con Spatial!**
