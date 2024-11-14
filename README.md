@@ -7,13 +7,13 @@
   <a href="#dart-descripción">Descripción</a> &#xa0; | &#xa0; 
   <a href="#goggles-vivero-virtual">Vivero Virtual</a> &#xa0; | &#xa0;
   <a href="#gear-requisitos-del-sistema">Requisitos del Sistema</a> &#xa0; | &#xa0;
-  <a href="#rocket-instalación">Instalación</a> &#xa0; | &#xa0;
-  <a href="#handshake-créditos" target="_blank">Créditos</a>
+  <a href="#rocket-instalación">Instalación</a>
 </p>
 
 <br>
 
 ## :pencil: Descripción ##
+Este repositorio contiene el proyecto base de Vivero Virtual en Spatial. En él encontrarás un escenario ambientado con sillas, cuadros, un fondo (skybox) y la mascota de Vivero Virtual. A partir de este proyecto, puedes comenzar a personalizar interacciones y añadir aquellas que ofrece Spatial por defecto. Además, puedes explorar el metaverso publicado en Spatial a través del siguiente enlace.
 
 ## :goggles: Vivero Virtual ##
 
@@ -25,3 +25,20 @@ ViVi busca llevar el conocimiento de la Realidad Extendida (realidad virtual, au
   <img src="https://github.com/user-attachments/assets/27a32b68-3033-46d0-b47e-1919fb694373" alt="ViVi" style="width:20%;"/>
 
 </div>
+
+## :gear: Requisitos del Sistema ##
+1. Unity Hub
+2. Unity Editor 2021.3.21f1
+
+
+## :rocket: Instalación ##
+
+Para comenzar a trabajar con este proyecto en tu entorno local, sigue estos pasos:
+### Para Windows y Mac:
+1. Abre la consola de comandos (Command Prompt en Windows o Terminal en Mac).
+2. Clona el repositorio en tu máquina local:
+   ```git clone https://github.com/viverovirtualuniandes/Spatial-Proyecto_Base.git```
+3. Abre Unity Hub.
+4. Selecciona el botón "Add" para añadir un nuevo proyecto.
+5. Navega a la carpeta que acabas de clonar y selecciónala (Spatial-Proyecto_Base).
+6. Abre el proyecto.
