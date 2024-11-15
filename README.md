@@ -17,7 +17,7 @@
 ## :pencil: Descripción ##
 Este repositorio contiene el proyecto base de Vivero Virtual en Spatial. En él encontrarás un escenario ambientado con sillas, cuadros, un fondo (skybox) y la mascota de Vivero Virtual. A partir de este proyecto, puedes comenzar a personalizar interacciones y añadir aquellas que ofrece Spatial por defecto. Además, puedes explorar el metaverso publicado en Spatial a través del siguiente enlace.
 
-https://www.spatial.io/s/Vivero-Virtual-Paquete-Base-67365cd381b6dc800313d93f
+Metaverso en Spatial: https://www.spatial.io/s/Vivero-Virtual-Paquete-Base-67365cd381b6dc800313d93f
 
 <img width="1077" alt="Paquete Base" src="https://github.com/user-attachments/assets/c5513943-7843-4311-878b-ea534dcf0110">
 
