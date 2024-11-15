@@ -17,6 +17,11 @@
 ## :pencil: Descripción ##
 Este repositorio contiene el proyecto base de Vivero Virtual en Spatial. En él encontrarás un escenario ambientado con sillas, cuadros, un fondo (skybox) y la mascota de Vivero Virtual. A partir de este proyecto, puedes comenzar a personalizar interacciones y añadir aquellas que ofrece Spatial por defecto. Además, puedes explorar el metaverso publicado en Spatial a través del siguiente enlace.
 
+https://www.spatial.io/s/Vivero-Virtual-Paquete-Base-67365cd381b6dc800313d93f
+
+<img width="1077" alt="Paquete Base" src="https://github.com/user-attachments/assets/c5513943-7843-4311-878b-ea534dcf0110">
+
+
 ## :goggles: Vivero Virtual ##
 
 Vivero Virtual (ViVi) es un Proyecto de Incubadora XR de la Universidad de los Andes que fue beneficiario de la beca Higher Ed XR Innovation Grant de Unity Social Impact y Meta Immersive Learning, gracias a sus propuestas de inclusión, impacto, viabilidad e innovación en la alfabetización del uso de las tecnologías, para aumentar el acceso a hardware AR/VR, el contenido educativo de alta calidad y otros recursos que ayudarán a los educadores a crear o mejorar programas XR innovadores.
