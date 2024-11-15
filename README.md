@@ -22,6 +22,13 @@ https://www.spatial.io/s/Vivero-Virtual-Paquete-Base-67365cd381b6dc800313d93f
 <img width="1077" alt="Paquete Base" src="https://github.com/user-attachments/assets/c5513943-7843-4311-878b-ea534dcf0110">
 
 
+
+**Nota: Cuando Vayas a publicar tu escena puede que te salga un error, si esto sucede da click en Delete y vuelve a llenar los datos del proyecto.**
+
+<img align="center" width="759" alt="Captura de pantalla 2024-11-14 a la(s) 9 41 27 p m" src="https://github.com/user-attachments/assets/e1767525-8c5f-49d1-8a81-9903d51b62ba">
+
+
+
 ## :goggles: Vivero Virtual ##
 
 Vivero Virtual (ViVi) es un Proyecto de Incubadora XR de la Universidad de los Andes que fue beneficiario de la beca Higher Ed XR Innovation Grant de Unity Social Impact y Meta Immersive Learning, gracias a sus propuestas de inclusión, impacto, viabilidad e innovación en la alfabetización del uso de las tecnologías, para aumentar el acceso a hardware AR/VR, el contenido educativo de alta calidad y otros recursos que ayudarán a los educadores a crear o mejorar programas XR innovadores.
